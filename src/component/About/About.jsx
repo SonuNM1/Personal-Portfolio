@@ -1,7 +1,7 @@
 import "./About.css";
 import Info from "./Info";
 import AboutImg from "../../assets/profile.jpg";
-import CV from "../../assets/SonuNM_CV.pdf";
+import CV from "/SonuNM_CV.pdf";
 
 export default function About() {
   return (
