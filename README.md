@@ -1,5 +1,5 @@
 
-![Portfolio Preview](./assets/Portfolio.png)
+![Portfolio Preview](/Portfolio.png)
 
 
 - **Deployed URL**: https://sonunm-portfolio.vercel.app/
